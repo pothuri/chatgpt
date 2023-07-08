@@ -6,3 +6,18 @@ What are some key terms I should know about docker? Make a list with a short, si
 I want to learn docker Give step-by-step instructions on how to learn docker. Start with the basics and move on to the more difficult ones. Keep in mind that I’m a beginner
 Present ways to leverage technology for productivity. Help me choose and implement relevant apps/tools for enhancing productivity in devops role
 Enhance team productivity in sre by implementing the SCRUM methodology.
+
+
+
+these are not prompts
+Collaboration and Communication Tool:Jira, Teams
+
+Source Code Management:Git
+
+Continuous Integration and Deployment:Jenkins
+
+Infrastructure as Code (IaC) and Configuration Management:Terraform,chef
+
+Monitoring and Alerting:Grafana, zabbix, appdynamics 
+
+Incident Management : ServiceNow
