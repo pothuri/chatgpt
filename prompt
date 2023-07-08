@@ -37,6 +37,9 @@ bash: syntax, ifelse, loop,function,input,commands,error handling,debugging,
 sql: create,alter,drop,select,insert,update,delete,group by,having,order by,join,and,or,not,sum,count,avg,min,max,subquery,commit,rollback,primary,FOREIGN,unique,indexing,functions
 
 Monitoring and Alerting:Grafana, zabbix, appdynamics 
+Grafana:installation,data source,dashboard,panel,visualization,metrics,variables,templates,alert,notification,permission, api
+zabbix:installation,Zabbix Architecture,host,host group,items, triggers,templates, agents,graphs,screens,actions, notifications,proxies, api,web monitoring, upgrade,maintanence
+appdynamics: installation,Application Instrumentation, dashboard,Transaction Monitoring,Performance Diagnostics,alert,thresholds,monitoring,Analytics and Reporting
 
 Incident Management : ServiceNow
 
