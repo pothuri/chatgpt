@@ -23,3 +23,4 @@ Monitoring and Alerting:Grafana, zabbix, appdynamics
 Incident Management : ServiceNow
 
 Scripting : python, bash
+python: pip,package,ide,exception, loop, ifelse, function,module
