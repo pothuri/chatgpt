@@ -43,4 +43,20 @@ appdynamics: installation,Application Instrumentation, dashboard,Transaction Mon
 
 Incident Management : ServiceNow
 
-AI, ML : keras, Pandas,Tensorflow, pytorch
+ServiceNow: Incident Management Process,Incident Ticketing,Incident Assignment and Ownership,Incident Categorization and Prioritization,SLA Management, Incident Resolution and Closure,
+Incident Reporting and Analysis,Integration and Automation
+
+AI, ML : Tensorflow[machine learning], keras[neural network], Pandas,pytorch
+keras: installation,Neural Networks basics,Model Creation and Compilation,Model Training and Evaluation,Data Preprocessing and Augmentation,Fine-tuning and Transfer Learning,Hyperparameter Tuning,Model Deployment,
+Visualization and Interpretability
+tensorflow: installation,Tensorflow basics,Building Computational Graphs, TensorFlow Operations, Training Models with TensorFlow,TensorFlow Estimators and High-Level APIs,
+Saving and Loading Models,TensorFlow Serving and Deployment,TensorFlow Data Input,TensorFlow GPU Acceleration,Distributed TensorFlow,TensorFlow for Deep Learning[advanced]
+
+
+The relationship between Keras and TensorFlow is that Keras can run on top of TensorFlow as a user-friendly interface. 
+TensorFlow provides the backend infrastructure and computational capabilities required to execute Keras code efficiently. 
+In other words, TensorFlow serves as the engine that powers Keras.
+
+To summarize, Keras is a user-friendly and intuitive library for building deep learning models, 
+and TensorFlow is the powerful backend framework that Keras runs on, providing the computational capabilities needed to execute the models efficiently.
+
