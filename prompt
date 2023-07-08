@@ -60,3 +60,5 @@ In other words, TensorFlow serves as the engine that powers Keras.
 To summarize, Keras is a user-friendly and intuitive library for building deep learning models, 
 and TensorFlow is the powerful backend framework that Keras runs on, providing the computational capabilities needed to execute the models efficiently.
 
+Pandas is primarily used for data manipulation, analysis, and preprocessing tasks, while PyTorch is focused on deep learning and building neural networks. While they serve different purposes, 
+they can be complementary in the data science workflow, where Pandas can be used to handle data preprocessing and PyTorch can be used for model training and inference on the preprocessed data.
