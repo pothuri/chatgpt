@@ -24,3 +24,5 @@ Incident Management : ServiceNow
 
 Scripting : python, bash
 python: pip,package,ide,exception, loop, ifelse, function,module
+
+AI, ML : keras, Pandas,Tensorflow, pytorch
