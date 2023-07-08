@@ -21,3 +21,5 @@ Infrastructure as Code (IaC) and Configuration Management:Terraform,chef
 Monitoring and Alerting:Grafana, zabbix, appdynamics 
 
 Incident Management : ServiceNow
+
+Scripting : python, bash
