@@ -30,6 +30,7 @@ Jenkins: Installation,Jenkins Jobs,Build Triggers,Source Code Management,Build S
 
 Infrastructure as Code (IaC) and Configuration Management:Terraform,chef
 Terraform: installation,IaC,Providers,Resources,commands and Modules,State Management,Variables and Input,Terraform State and Workspace,modules,integration
+https://www.youtube.com/watch?v=IpnekTJZsq4
 chef: installation,Chef Resources and Recipes, cookbooks,recipes,attributes,templates,data bags,Chef Client-Server Architecture, chef testing
 
 Scripting : python, bash,sql
