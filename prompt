@@ -11,21 +11,33 @@ Enhance team productivity in sre by implementing the SCRUM methodology.
 
 these are not prompts
 
-Cloud: AWS, PCF, GCP
+Cloud: AWS
+aws: basics, Global Infrastructure, AWS Management Console, Identity and Access Management (IAM),EC2 (Elastic Compute Cloud)
+ S3 (Simple Storage Service), Networking and VPC,RDS (Relational Database Service),Load Balancing and Auto Scaling,CloudFormation,Monitoring and Management
 
-Collaboration and Communication Tool:Jira, Teams
+Collaboration and Communication Tool:Jira
+Jira : Issue Management,Workflows,Boards and Sprints,Reporting and Metrics
+
+Documentation: confluence
+confluence: Navigation and User Interface,Spaces, creating table, Collaborative Features,Attachments and File Management,Permissions and Restrictions, Searching, Filtering
 
 Source Code Management:Git
+Git: setup, Repository,Branching and Merging, Commit,Resolving Conflicts, commands,Git Ignore,Git Stash,Git Rebase
 
 Continuous Integration and Deployment:Jenkins
+Jenkins: Installation,Jenkins Jobs,Build Triggers,Source Code Management,Build Steps,Build Artifacts,Jenkins Plugins,Build Environment,Jenkins Pipelines,Jenkins Agents,Reporting, Integration
 
 Infrastructure as Code (IaC) and Configuration Management:Terraform,chef
+Terraform: installation,IaC,Providers,Resources and Modules,State Management,Variables and Input,commands,Terraform State and Workspace,modules,integration
+chef: installation,Chef Resources and Recipes, cookbooks,recipes,attributes,templates,data bags,Chef Client-Server Architecture, chef testing
+
+Scripting : python, bash,sql
+python: install, pip,package,ide,exception, loop, ifelse, function,module,debugging,library
+bash: syntax, ifelse, loop,function,input,commands,error handling,debugging,
+sql: create,alter,drop,select,insert,update,delete,group by,having,order by,join,and,or,not,sum,count,avg,min,max,subquery,commit,rollback,primary,FOREIGN,unique,indexing,functions
 
 Monitoring and Alerting:Grafana, zabbix, appdynamics 
 
 Incident Management : ServiceNow
-
-Scripting : python, bash
-python: pip,package,ide,exception, loop, ifelse, function,module
 
 AI, ML : keras, Pandas,Tensorflow, pytorch
