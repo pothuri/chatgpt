@@ -50,6 +50,11 @@ Jira : Issue Management,Workflows,Boards and Sprints,Reporting and Metrics
 Documentation: confluence time takes to cover: 1 day
 confluence: Navigation and User Interface,Spaces, creating table, Collaborative Features,Attachments and File Management,Permissions and Restrictions, Searching, Filtering
 
+Incident Management : ServiceNow time takes to cover: less than week
+
+ServiceNow: Incident Management Process,Incident Ticketing,Incident Assignment and Ownership,Incident Categorization and Prioritization,SLA Management, Incident Resolution and Closure,
+Incident Reporting and Analysis,Integration and Automation
+
 Cloud: AWS  time takes to cover: 1 week 
 aws: basics, Global Infrastructure, AWS Management Console, Identity and Access Management (IAM),EC2 (Elastic Compute Cloud)
  S3 (Simple Storage Service), Networking and VPC,RDS (Relational Database Service),Load Balancing and Auto Scaling,CloudFormation,Monitoring and Management, route 53, aws certificate manager
@@ -81,10 +86,7 @@ Grafana:installation,data source,dashboard,panel,visualization,metrics,variables
 zabbix:installation,Zabbix Architecture,host,host group,items, triggers,templates, agents,graphs,screens,actions, notifications,proxies, api,web monitoring, upgrade,maintanence
 appdynamics: installation,Application Instrumentation, dashboard,Transaction Monitoring,Performance Diagnostics,alert,thresholds,monitoring,Analytics and Reporting
 
-Incident Management : ServiceNow time takes to cover: 1 week
 
-ServiceNow: Incident Management Process,Incident Ticketing,Incident Assignment and Ownership,Incident Categorization and Prioritization,SLA Management, Incident Resolution and Closure,
-Incident Reporting and Analysis,Integration and Automation
 
 AI, ML : Tensorflow[machine learning], keras[neural network], Pandas,pytorch
 keras: installation,Neural Networks basics,Model Creation and Compilation,Model Training and Evaluation,Data Preprocessing and Augmentation,Fine-tuning and Transfer Learning,Hyperparameter Tuning,Model Deployment,
