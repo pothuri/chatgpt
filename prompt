@@ -15,6 +15,8 @@ Cloud: AWS  time takes to cover: 1 week
 aws: basics, Global Infrastructure, AWS Management Console, Identity and Access Management (IAM),EC2 (Elastic Compute Cloud)
  S3 (Simple Storage Service), Networking and VPC,RDS (Relational Database Service),Load Balancing and Auto Scaling,CloudFormation,Monitoring and Management, route 53, aws certificate manager
 https://www.youtube.com/watch?v=NTUvxonSq2Q
+SSL  - SSL,TLS,CA,CSR,PKI,Handshake,SSL types,formats,chains,management,monitor
+DNS - basics, records,zones,name servers,DNS Resolution Process,DNS Caching and TTL,DNS Security,DNS Load Balancing and Redundancy,DNS Troubleshooting
 
 Collaboration and Communication Tool:Jira  time takes to cover: 1 day
 Jira : Issue Management,Workflows,Boards and Sprints,Reporting and Metrics
