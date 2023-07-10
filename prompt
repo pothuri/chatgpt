@@ -110,6 +110,12 @@ and TensorFlow is the powerful backend framework that Keras runs on, providing t
 
 list of popular aws service for various requirements
 
+
+
+Pandas is primarily used for data manipulation, analysis, and preprocessing tasks, while PyTorch is focused on deep learning and building neural networks. While they serve different purposes, 
+they can be complementary in the data science workflow, where Pandas can be used to handle data preprocessing and PyTorch can be used for model training and inference on the preprocessed data.
+
+
 storage: s3
 security: certificate manager,iam
 network: route 53, vpc,cloud front
@@ -123,6 +129,3 @@ business application : amazon simple mail service
 aws cost mgmt: billing
 app integration: sns, sqs
 analytics: kinesis,opensearch,cloudsearch,athena
-
-Pandas is primarily used for data manipulation, analysis, and preprocessing tasks, while PyTorch is focused on deep learning and building neural networks. While they serve different purposes, 
-they can be complementary in the data science workflow, where Pandas can be used to handle data preprocessing and PyTorch can be used for model training and inference on the preprocessed data.
