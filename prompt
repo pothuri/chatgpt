@@ -118,7 +118,7 @@ they can be complementary in the data science workflow, where Pandas can be used
 
 storage: s3
 network: route 53, vpc,cloud front
-containers: elastic container service, kubernetes service
+containers: elastic container service, kubernetes service,fargate
 database: RDS
 computer: ec2, beanstalk, lambda
 security: certificate manager,iam
