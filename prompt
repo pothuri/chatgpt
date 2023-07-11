@@ -117,15 +117,16 @@ they can be complementary in the data science workflow, where Pandas can be used
 
 
 storage: s3
-security: certificate manager,iam
 network: route 53, vpc,cloud front
+containers: elastic container service, kubernetes service
+database: RDS
+computer: ec2, beanstalk, lambda
+security: certificate manager,iam
+app integration: sns, sqs
+
 mgmt: auto scaling,cloudformation,cloudtrail,cloudwatch, systems manager
 developer: cloud shell
-database: RDS
 customer enablement: support
-containers: elastic container service, kubernetes service
-computer: ec2, beanstalk, lambda
 business application : amazon simple mail service
 aws cost mgmt: billing
-app integration: sns, sqs
 analytics: kinesis,opensearch,cloudsearch,athena
