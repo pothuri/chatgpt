@@ -634,4 +634,5 @@ Zupyak
 CulturePulse
 Claude
 Agent.so
-
+curl -s -X POST "https://stable-diffusion-xl-demo-kk0powt97tmb.octoai.cloud/predict" -H "content-type: application/json" --data-raw '{"prompt":"A photo of orochimaru","negative_prompt":"Blurry photo, distortion, low-res, bad quality", "style_preset":"","cfg_scale":7.5,"s
+teps":30}'| jq -r ".completion.image_0" | base64 -d > image.png
